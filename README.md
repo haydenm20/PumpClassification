@@ -1,5 +1,5 @@
 # Pump Classification Using Naive Bayes Classifier
-This project was used to apply the Naive Bayes Classifier to a real world scenerio. 
+This project is a direct application of the Naive Bayes Classifier to a real world scenerio. 
 In this project, the classifier is used to predict the functionality of various water
 pumps across Tanzania. This model will take into account several
 factors from the given dataset and output the predicted functionality
